@@ -16,18 +16,22 @@ CycleGAN is a type of GAN which image-to-image translation without the need to i
 
 1. Standard - The first experiment was observed with the standard CycleGAN.
 2. ResNet - ResNet model as a discriminator was used.
-3. VGG-16 - VGG16 model as a discriminator was used.
+3. VGG16 - VGG16 model as a discriminator was used.
 
 ## Results 
 
 1. Standard
-  [insert iamge here]
+
+![alt text](https://github.com/KylevdLangemheen/DeepLearning2/blob/main/standard.png "Standard Result") 
+ 
 2. Resnet
+
+![alt text](https://github.com/KylevdLangemheen/DeepLearning2/blob/main/resnet.png "ResNet Result")
+
 3. VGG16
 
+![alt text](https://github.com/KylevdLangemheen/DeepLearning2/blob/main/vgg.png "VGG results")
 
-   ![alt text](https://github.com/KylevdLangemheen/DeepLearning2/blob/main/Run_files_v3_house/result/AtoB_generated_plot_006190.png "VGG results")
-   
 ## Links
 Links and references used in the project
 
