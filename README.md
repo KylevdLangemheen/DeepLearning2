@@ -18,6 +18,16 @@ CycleGAN is a type of GAN which image-to-image translation without the need to i
 2. ResNet - ResNet model as a discriminator was used.
 3. VGG16 - VGG16 model as a discriminator was used.
 
+## How to run the code
+The repository is divided in three major parts. 
+- Directory **Run_files_v1_house** cantains the standard CycleGAN implementation.
+- Directory **Run_files_v2_house** contains the ResNet based discriptor implementation for CycleGAN.
+- Directory **Run_files_v3_house** contains the VGG16 based discriptor implementation for CycleGAN.
+- Other parts are the results and minor development efforts.
+
+To run the files, open the relevant file and use 'python \<filename\>' from terminal.
+
+
 ## Results 
 
 1. Standard
